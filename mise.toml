@@ -1,4 +1,5 @@
 [settings]
 experimental = true
 python.uv_venv_auto = true
+python.uv_venv_create_args = [ "--verbose" ]
 idiomatic_version_file_enable_tools = [ "python" ]
