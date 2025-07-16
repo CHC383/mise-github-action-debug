@@ -17,7 +17,7 @@ The step `python --version` in `.github/workflows/mise.yaml` hangs and got
 killed eventually.
 
 When running remotely on GitHub, the step failed with exit code 143
-([run](https://github.com/CHC383/mise-github-action-debug/actions/runs/16331542152/job/46135072525)).
+([run](https://github.com/CHC383/mise-github-action-debug/actions/runs/16332440028/job/46137839131)).
 
 When running locally with [act](https://nektosact.com/) (through
 [GitHub Local Actions](https://sanjulaganepola.github.io/github-local-actions-docs/)
